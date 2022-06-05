@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sergayoo
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python
-- 💞️ 
+- 👀 I’m a game artist
+- 
+- 
 - 📫 How to reach me : e-mail  elifff.yetkin12@gmail.com
 
 <!---
